@@ -1,0 +1,9 @@
+[submodule "member-service"]
+	path = member-service
+	url = https://github.com/Sachintha-Prabashana/Fitbuddy-Member-Service.git
+[submodule "workout-service"]
+	path = workout-service
+	url = https://github.com/Sachintha-Prabashana/Fitbuddy-Workout-Service.git
+[submodule "fitness-service"]
+	path = fitness-service
+	url = https://github.com/Sachintha-Prabashana/Fitbuddy-Fitness-Service.git
